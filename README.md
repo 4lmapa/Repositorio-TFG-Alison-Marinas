@@ -1,11 +1,11 @@
 # Manual teórico-práctico
 Introducción
 
-##Contenidos
+## Contenidos
 
-1.hola
-2.lala
+1. hola
+2. lala
 
-##Licencia
+## Licencia
 
 mimimi
