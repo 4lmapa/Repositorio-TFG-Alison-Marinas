@@ -1,5 +1,4 @@
-# Manual teórico-práctico
-Introducción
+![Portada](https://www.medical-exercise.com/wp-content/uploads/2009/03/microscopio.jpg)
 
 ## Contenidos
 
