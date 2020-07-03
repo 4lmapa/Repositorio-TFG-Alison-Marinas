@@ -1,7 +1,7 @@
 ![](https://github.com/4lmapa/tfg-amp_manual-repo/blob/master/portada.jpg)
 ![](https://www.medical-exercise.com/wp-content/uploads/2009/03/microscopio.jpg)
 
-## 🌱 Presentación al manual
+## 🌱 Presentación
 > *Este manual teórico-práctico introduce al diseño de productos basados en formas y estructuras bioinspiradas con Grasshopper, un editor de programación visual complementario al modelador Rhinoceros 3D.*
 
 Los contenidos de este manual se componen de capítulos teóricos y prácticos, dividiendo el manual en dos partes claramente diferenciadas para su organización y uso:
@@ -9,20 +9,23 @@ Los contenidos de este manual se componen de capítulos teóricos y prácticos, 
 * La **primera parte** de este manual abarca los capítulos teóricos dedicados al estudio de la biomímesis en el diseño de estructuras para el desarrollo de objetos a través de herramientas computacionales. En este estudio teórico se presenta el estado del arte del diseño bioinspirado ─donde la biomímesis se proclama como la disciplina de referencia en el estudio de las estrategias naturales para su aplicación en problemas humanos─, de los sistemas estructurales y de las últimas herramientas que ofrece el diseño computacional.
 * En la **segunda parte** de este manual se abordan seis casos prácticos consistentes en tutoriales de Grasshopper donde se introduce a la metodología de trabajo con software de programación visual. Dichos tutoriales se centran en la reproducción de tres estructuras naturales: basadas en **diagramas de Voronoi**, **tipo Gyroid** y **reticulares**. Y se aplican en otros tres tutoriales para el diseño de tres objetos: **un anillo**, **una lámpara** y **la suela de una zapatilla**, respectivamente.
 
+### Contenidos teóricos
+
+01 naturaleza como ...
+
+02 sistemas estructurales
+
+03 diseño computacional
+
+### Contenidos prácticos
+
 nº | Estructural natural                                           | Tutorial de base | Tutorial de aplicación
 :-:| :------------------------------------------------------------ | :--------------: | :--------------------:
 1  | Estructuras basadas en la teselación por diagramas de Voronoi | [TB1][25]        | [TA1][26]
 2  | Superficies Mínimas Triple Periódicas: Schwarz G (Gyroid)     | [TB2][27]        | [TA2][28]
 3  | Estructuras reticulares                                       | [TB3][29]        | [TA3][30]
 
-### Contenidos
-
-1. Parte teórica: esto del arte de ...
-01 naturaleza como ...
-02 sistemas estructurales
-03 diseño computacional
-
-2. Parte práctica
+---
 
 ## ⚡ Requisitos y configuraciones previas
 
@@ -61,11 +64,16 @@ Esta estructura está compuesta por:
 ### Acciones comunes
 Tras realizar todas las **configuraciones previas** al uso de los tutoriales se describen a continuación las acciones comunes previas:
 1. Ejecutar **Rhinoceros**.
-2. Escribir `Grasshopper` en la línea de comandos de Rhinoceros para acceder a la interfaz de este.
+2. Escribir `Grasshopper` en la línea de comandos de **Rhinoceros** para acceder a la interfaz de este.
+
+---
 
 ## 📂 Bibliografía
 
-Por otra parte, se recuerda al lector del manual que se requiere de un nivel básico de habilidad con Rhinoceros y Grasshopper para la realización de los tutoriales. Por ello, para completar dicha formación, se pone a disposición una amplia `Bibliografía` con una gran variedad de recursos para el aprendizaje de dichos programas. Por esta misma razón, en los comandos nombrados en los tutoriales no se definen los menús por los que se pueden extraer a la interfaz; esto ya debe de conocerlo el usuario.
+Se recuerda al lector del manual que se requiere de un nivel básico de habilidad con Rhinoceros y Grasshopper para la realización de los tutoriales. Por ello, para completar dicha formación, se pone a disposición una amplia **Bibliografía** con una gran variedad de recursos para el aprendizaje de dichos programas.
+
+Por esta misma razón, en los comandos nombrados en los tutoriales no se definen los menús por los que se pueden extraer a la interfaz; esto ya debe de conocerlo el usuario.
+
 En cualquier caso, para conocer cómo se extraer estos parámetros en caso de no encontrarse con el buscador de la interfaz, se puede hacer uso del portal [Grasshopper Docs](http://grasshopperdocs.com/) donde se definen todos los comandos.
 
 [1]:http://www.bespokegeometry.com/2015/07/22/cocoon/
