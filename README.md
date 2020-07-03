@@ -2,6 +2,7 @@
 ![](https://www.medical-exercise.com/wp-content/uploads/2009/03/microscopio.jpg)
 
 ## 🌱 Presentación
+
 > *Este manual teórico-práctico introduce al diseño de productos basados en formas y estructuras bioinspiradas con Grasshopper, un editor de programación visual complementario al modelador Rhinoceros 3D.*
 
 Los contenidos de este manual se componen de capítulos teóricos y prácticos, dividiendo el manual en dos partes claramente diferenciadas para su organización y uso:
@@ -25,7 +26,6 @@ nº | Estructural natural                                           | Tutorial d
 2  | Superficies Mínimas Triple Periódicas: Schwarz G (Gyroid)     | [TB2][27]        | [TA2][28]
 3  | Estructuras reticulares                                       | [TB3][29]        | [TA3][30]
 
----
 
 ## ⚡ Requisitos y configuraciones previas
 
@@ -51,6 +51,8 @@ Complemento       | Autor                        | Fuente Oficial 🡭          
 
 :triangular_flag_on_post: 25/06/2020 ─ Debido a problemas en la [~~página web oficial~~][8] se remite al repositorio *[Millipede Backup][9]* creado por [@nickteeple][10].
 
+---
+
 ## ▶ Instrucciones de uso
 
 ### Estructura de los tutoriales
@@ -66,7 +68,6 @@ Tras realizar todas las **configuraciones previas** al uso de los tutoriales se 
 1. Ejecutar **Rhinoceros**.
 2. Escribir `Grasshopper` en la línea de comandos de **Rhinoceros** para acceder a la interfaz de este.
 
----
 
 ## 📂 Bibliografía
 
