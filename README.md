@@ -27,10 +27,10 @@ Complemento       | Autor                        | Fuente Oficial 🡭          
 `Kangaroo Physics`| *[Daniel Piker][20]*         | [Food4Rhino][3]                | [.zip][13]
 `MeshEdit`        | *[[uto]-lab][21]*            | [Food4Rhino][4]                | [.zip][14]
 `MeshMachine`     | *[Daniel Piker][22]*         | [Grasshopper3D][5]             | [.gha][15]
-`Millipede`       | *[Panagiotis Michalatos][23]*| ~~[Grasshopper3D][6]~~ 🚩      | [.zip][16]
+`Millipede`       | *[Panagiotis Michalatos][23]*| [Grasshopper3D][6] 🚩          | [.zip][16]
 `Weaverbird`      | *[Giulio Piacentino][24]*    | [Giulio Piacentino Website][7] | [.msi][17]
 
-:triangular_flag_on_post: 25/06/2020 ─ Debido a problemas en la [página web oficial][8] se remite al repositorio *[Millipede Backup][9]* creado por [@nickteeple][10].
+:triangular_flag_on_post: 25/06/2020 ─ Debido a problemas en la [~~página web oficial~~][8] se remite al repositorio *[Millipede Backup][9]* creado por [@nickteeple][10].
 
 [1]:http://www.bespokegeometry.com/2015/07/22/cocoon/
 [2]:https://www.food4rhino.com/app/crystallon
