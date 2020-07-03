@@ -1,5 +1,4 @@
 ![](https://github.com/4lmapa/tfg-amp_manual-repo/blob/master/portada.jpg)
-![](https://www.medical-exercise.com/wp-content/uploads/2009/03/microscopio.jpg)
 
 ## 🌱 Presentación
 
