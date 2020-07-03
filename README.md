@@ -20,15 +20,15 @@ Las versiones empleadas del *software* no son las últimas lanzadas ya que mucho
 ### Lista de complementos
 Además de los mencionados programas, se hará uso de los siguientes *scripts* complementarios a Grasshopper:
 
-Complemento      | Autor                        | Fuente Oficial 🡭              | Archivo
-:--------------- | :--------------------------- | :----------------------------- | :--------:
-Cocoon           | *[David Stasiuk][18]*        | [Bespoke Geometry][1]          | [.zip][11]
-Crystallon       | *[Aaron Porterfield][19]*    | [Food4Rhino][2]                | [.zip][12]
-Kangaroo Physics | *[Daniel Piker][20]*         | [Food4Rhino][3]                | [.zip][13]
-MeshEdit         | *[[uto]-lab][21]*            | [Food4Rhino][4]                | [.zip][14]
-MeshMachine      | *[Daniel Piker][22]*         | [Grasshopper3D][5]             | [.gha][15]
-Millipede        | *[Panagiotis Michalatos][23]*| [Grasshopper3D][6] 🚩          | [.zip][16]
-Weaverbird       | *[Giulio Piacentino][24]*    | [Giulio Piacentino Website][7] | [.msi][17]
+Complemento       | Autor                        | Fuente Oficial 🡭              | Archivo
+:---------------- | :--------------------------- | :----------------------------- | :--------:
+`Cocoon`          | *[David Stasiuk][18]*        | [Bespoke Geometry][1]          | [.zip][11]
+`Crystallon`      | *[Aaron Porterfield][19]*    | [Food4Rhino][2]                | [.zip][12]
+`Kangaroo Physics`| *[Daniel Piker][20]*         | [Food4Rhino][3]                | [.zip][13]
+`MeshEdit`        | *[[uto]-lab][21]*            | [Food4Rhino][4]                | [.zip][14]
+`MeshMachine`     | *[Daniel Piker][22]*         | [Grasshopper3D][5]             | [.gha][15]
+`Millipede`       | *[Panagiotis Michalatos][23]*| ~~[Grasshopper3D][6]~~ 🚩      | [.zip][16]
+`Weaverbird`      | *[Giulio Piacentino][24]*    | [Giulio Piacentino Website][7] | [.msi][17]
 
 :triangular_flag_on_post: 25/06/2020 ─ Debido a problemas en la [página web oficial][8] se remite al repositorio *[Millipede Backup][9]* creado por [@nickteeple][10].
 
