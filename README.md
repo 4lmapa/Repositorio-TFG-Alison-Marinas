@@ -19,12 +19,6 @@ Los contenidos de este manual se componen de capítulos teóricos y prácticos, 
 
 ### Contenidos prácticos
 
-* TB1 ─ Tutorial Básico 1: Estructura reticular a partir de la intersección de regiones Voronoi 3D
-* TA1 ─ Tutorial Avanzado 1: Anillo definido por una estructura laminar perforada a partir de regiones Voronoi 3D
-* TB2 ─ Tutorial Básico 2: Entramado definido por la célula unitaria de una superficie Gyroid
-* TA2 ─ Tutorial Avanzado 2: Lámpara con entramado superficial definido por una superficie Gyroid
-* TB3 ─ Tutorial Básico 3: Entramado reticular puro de módulo bioinspirado
-* TA3 ─ Tutorial Avanzado 3: Suela de zapatilla definida por un entramado reticular de flexibilidad variable
 
 nº | Estructural natural                                           | Tutorial de base | Tutorial de aplicación
 :-:| :------------------------------------------------------------ | :--------------: | :--------------------:
@@ -32,6 +26,15 @@ nº | Estructural natural                                           | Tutorial d
 2  | Superficies Mínimas Triple Periódicas: Schwarz G (Gyroid)     | [TB2][27]        | [TA2][28]
 3  | Estructuras reticulares                                       | [TB3][29]        | [TA3][30]
 
+
+* **TB1 ─ Tutorial Básico 1.** Estructura reticular a partir de la intersección de regiones Voronoi 3D
+* **TA1 - Tutorial Avanzado 1.** Anillo definido por una estructura laminar perforada a partir de regiones Voronoi 3D
+
+* **TB2 ─ Tutorial Básico 2.** Entramado definido por la célula unitaria de una superficie Gyroid
+* **TA2 ─ Tutorial Avanzado 2.** Lámpara con entramado superficial definido por una superficie Gyroid
+
+* **TB3 ─ Tutorial Básico 3.** Entramado reticular puro de módulo bioinspirado
+* **TA3 ─ Tutorial Avanzado 3.** Suela de zapatilla definida por un entramado reticular de flexibilidad variable
 
 ## ⚡ Requisitos y configuraciones previas
 
