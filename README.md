@@ -2,7 +2,7 @@
 
 ## 🌱 Presentación
 
->Este manual teórico-práctico introduce al diseño de productos basados en formas y estructuras bioinspiradas con Grasshopper, un editor de programación visual complementario al modelador Rhinoceros 3D.
+>**_Este manual teórico-práctico introduce al diseño de productos basados en formas y estructuras bioinspiradas con Grasshopper, un editor de programación visual complementario al modelador Rhinoceros 3D._**
 
 Los contenidos de este manual se componen de capítulos teóricos y prácticos, dividiendo el manual en dos partes claramente diferenciadas para su organización y uso.
 
@@ -19,7 +19,7 @@ La **primera parte** de este manual abarca los capítulos teóricos dedicados al
 ### Contenidos prácticos
 
 En la **segunda parte** de este manual se abordan seis casos prácticos consistentes en tutoriales de Grasshopper donde se introduce a la metodología de trabajo con software de programación visual. Dichos tutoriales se centran en la reproducción de tres estructuras naturales: basadas en **diagramas de Voronoi**, **tipo Gyroid** y **reticulares**. Y se aplican en otros tres tutoriales para el diseño de tres objetos: **un anillo**, **una lámpara** y **la suela de una zapatilla**, respectivamente. 
-La relación entre el sistema estructural natural seleccionado, los tutoriales de base y los tutoriales de aplicación se reflejan en la siguiente tabla:
+La relación entre el sistema estructural natural, los tutoriales de base y los tutoriales de aplicación se reflejan en la siguiente tabla:
 
 nº | Estructural natural                                           | Tutorial de base | Tutorial de aplicación
 :-:| :------------------------------------------------------------ | :--------------: | :--------------------:
@@ -28,16 +28,16 @@ nº | Estructural natural                                           | Tutorial d
 3  | Estructuras reticulares                                       | [TB3][29]        | [TA3][30]
 
 * **Estructura 1**
-  * **TB1 ─ Tutorial Básico 1 ─** Desarrollo de una estructura reticular a partir de la intersección de regiones Voronoi 3D
-  * **TA1 ─ Tutorial Avanzado 1 ─** Desarrollo de anillo definido por una estructura laminar perforada a partir de regiones Voronoi 3D
+  * **[TB1][25] ─ Tutorial Básico 1 ─** Desarrollo de una estructura reticular a partir de la intersección de regiones Voronoi 3D
+  * **[TA1][26] ─ Tutorial Avanzado 1 ─** Desarrollo de anillo definido por una estructura laminar perforada a partir de regiones Voronoi 3D
 
 * **Estructura 2**
-  * **TB2 ─ Tutorial Básico 2 ─** Desarrollo de entramado definido por la célula unitaria de una superficie Gyroid
-  * **TA2 ─ Tutorial Avanzado 2 ─** Desarrollo de lámpara con entramado superficial definido por una superficie Gyroid
+  * **[TB2][27] ─ Tutorial Básico 2 ─** Desarrollo de entramado definido por la célula unitaria de una superficie Gyroid
+  * **[TA2][28] ─ Tutorial Avanzado 2 ─** Desarrollo de lámpara con entramado superficial definido por una superficie Gyroid
 
 * **Estructura 3**
-  * **TB3 ─ Tutorial Básico 3 ─** Desarrollo de entramado reticular puro de módulo bioinspirado
-  * **TA3 ─ tutorial Avanzado 3 ─** Desarrollo de suela de zapatilla definida por un entramado reticular de flexibilidad variable
+  * **[TB3][29] ─ Tutorial Básico 3 ─** Desarrollo de entramado reticular puro de módulo bioinspirado
+  * **[TA3][30] ─ tutorial Avanzado 3 ─** Desarrollo de suela de zapatilla definida por un entramado reticular de flexibilidad variable
   
 ---
 
