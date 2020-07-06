@@ -18,7 +18,8 @@ La **primera parte** de este manual abarca los capítulos teóricos dedicados al
 
 ### Contenidos prácticos
 
-En la **segunda parte** de este manual se abordan seis casos prácticos consistentes en tutoriales de Grasshopper donde se introduce a la metodología de trabajo con software de programación visual. Dichos tutoriales se centran en la reproducción de tres estructuras naturales: basadas en **diagramas de Voronoi**, **tipo Gyroid** y **reticulares**. Y se aplican en otros tres tutoriales para el diseño de tres objetos: **un anillo**, **una lámpara** y **la suela de una zapatilla**, respectivamente. La relación entre el sistema estructural natural seleccionado, los tutoriales de base y los tutoriales de aplicación se reflejan en la siguiente tabla:
+En la **segunda parte** de este manual se abordan seis casos prácticos consistentes en tutoriales de Grasshopper donde se introduce a la metodología de trabajo con software de programación visual. Dichos tutoriales se centran en la reproducción de tres estructuras naturales: basadas en **diagramas de Voronoi**, **tipo Gyroid** y **reticulares**. Y se aplican en otros tres tutoriales para el diseño de tres objetos: **un anillo**, **una lámpara** y **la suela de una zapatilla**, respectivamente. 
+La relación entre el sistema estructural natural seleccionado, los tutoriales de base y los tutoriales de aplicación se reflejan en la siguiente tabla:
 
 nº | Estructural natural                                           | Tutorial de base | Tutorial de aplicación
 :-:| :------------------------------------------------------------ | :--------------: | :--------------------:
@@ -27,8 +28,8 @@ nº | Estructural natural                                           | Tutorial d
 3  | Estructuras reticulares                                       | [TB3][29]        | [TA3][30]
 
 * **Estructura 1**
-  * TB1 ─ Tutorial Básico 1 ─ Desarrollo de una estructura reticular a partir de la intersección de regiones Voronoi 3D
-  * TA1 ─ Tutorial Avanzado 1 ─ Desarrollo de anillo definido por una estructura laminar perforada a partir de regiones Voronoi 3D
+  * **TB1 ─ Tutorial Básico 1 ─** Desarrollo de una estructura reticular a partir de la intersección de regiones Voronoi 3D
+  * **TA1 ─ Tutorial Avanzado 1 ─** Desarrollo de anillo definido por una estructura laminar perforada a partir de regiones Voronoi 3D
 
 * **Estructura 2**
   * **TB2 ─ Tutorial Básico 2 ─** Desarrollo de entramado definido por la célula unitaria de una superficie Gyroid
@@ -37,6 +38,8 @@ nº | Estructural natural                                           | Tutorial d
 * **Estructura 3**
   * **TB3 ─ Tutorial Básico 3 ─** Desarrollo de entramado reticular puro de módulo bioinspirado
   * **TA3 ─ tutorial Avanzado 3 ─** Desarrollo de suela de zapatilla definida por un entramado reticular de flexibilidad variable
+  
+---
 
 ## ⚡ Requisitos y configuraciones previas
 
@@ -79,6 +82,7 @@ Tras realizar todas las **configuraciones previas** al uso de los tutoriales se 
 1. Ejecutar **Rhinoceros**.
 2. Escribir `Grasshopper` en la línea de comandos de **Rhinoceros** para acceder a la interfaz de este.
 
+---
 
 ## 📂 Bibliografía
 
