@@ -1,7 +1,7 @@
 ![](https://github.com/4lmapa/tfg-amp_manual-repo/blob/master/portada.jpg)
 
 ## 🌱 Presentación
-
+ 
 >**_Este manual teórico-práctico introduce al diseño de productos basados en formas y estructuras bioinspiradas con Grasshopper, un editor de programación visual complementario al modelador Rhinoceros 3D._**
 
 Los contenidos de este manual se componen de capítulos teóricos y prácticos, dividiendo el manual en dos partes claramente diferenciadas para su organización y uso.
