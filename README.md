@@ -2,14 +2,13 @@
 
 ## 🌱 Presentación
 
-> *Este manual teórico-práctico introduce al diseño de productos basados en formas y estructuras bioinspiradas con Grasshopper, un editor de programación visual complementario al modelador Rhinoceros 3D.*
+>Este manual teórico-práctico introduce al diseño de productos basados en formas y estructuras bioinspiradas con Grasshopper, un editor de programación visual complementario al modelador Rhinoceros 3D.
 
-Los contenidos de este manual se componen de capítulos teóricos y prácticos, dividiendo el manual en dos partes claramente diferenciadas para su organización y uso:
-
-* La **primera parte** de este manual abarca los capítulos teóricos dedicados al estudio de la biomímesis en el diseño de estructuras para el desarrollo de objetos a través de herramientas computacionales. En este estudio teórico se presenta el estado del arte del diseño bioinspirado ─donde la biomímesis se proclama como la disciplina de referencia en el estudio de las estrategias naturales para su aplicación en problemas humanos─, de los sistemas estructurales y de las últimas herramientas que ofrece el diseño computacional.
-* En la **segunda parte** de este manual se abordan seis casos prácticos consistentes en tutoriales de Grasshopper donde se introduce a la metodología de trabajo con software de programación visual. Dichos tutoriales se centran en la reproducción de tres estructuras naturales: basadas en **diagramas de Voronoi**, **tipo Gyroid** y **reticulares**. Y se aplican en otros tres tutoriales para el diseño de tres objetos: **un anillo**, **una lámpara** y **la suela de una zapatilla**, respectivamente.
+Los contenidos de este manual se componen de capítulos teóricos y prácticos, dividiendo el manual en dos partes claramente diferenciadas para su organización y uso.
 
 ### Contenidos teóricos
+
+La **primera parte** de este manual abarca los capítulos teóricos dedicados al estudio de la biomímesis en el diseño de estructuras para el desarrollo de objetos a través de herramientas computacionales. En este estudio teórico se presenta el estado del arte del diseño bioinspirado ─donde la biomímesis se proclama como la disciplina de referencia en el estudio de las estrategias naturales para su aplicación en problemas humanos─, de los sistemas estructurales y de las últimas herramientas que ofrece el diseño computacional.
 
 01 naturaleza como ...
 
@@ -19,22 +18,22 @@ Los contenidos de este manual se componen de capítulos teóricos y prácticos, 
 
 ### Contenidos prácticos
 
-
 nº | Estructural natural                                           | Tutorial de base | Tutorial de aplicación
 :-:| :------------------------------------------------------------ | :--------------: | :--------------------:
 1  | Estructuras basadas en la teselación por diagramas de Voronoi | [TB1][25]        | [TA1][26]
 2  | Superficies Mínimas Triple Periódicas: Schwarz G (Gyroid)     | [TB2][27]        | [TA2][28]
 3  | Estructuras reticulares                                       | [TB3][29]        | [TA3][30]
 
+En la **segunda parte** de este manual se abordan seis casos prácticos consistentes en tutoriales de Grasshopper donde se introduce a la metodología de trabajo con software de programación visual. Dichos tutoriales se centran en la reproducción de tres estructuras naturales: basadas en **diagramas de Voronoi**, **tipo Gyroid** y **reticulares**. Y se aplican en otros tres tutoriales para el diseño de tres objetos: **un anillo**, **una lámpara** y **la suela de una zapatilla**, respectivamente.
 
-* **TB1 - Tutorial Básico 1.** Estructura reticular a partir de la intersección de regiones Voronoi 3D
-* **TA1 - Tutorial Avanzado 1.** Anillo definido por una estructura laminar perforada a partir de regiones Voronoi 3D
+* **TB1 - Tutorial Básico 1 -** Estructura reticular a partir de la intersección de regiones Voronoi 3D
+* **TA1 - Tutorial Avanzado 1 -** Anillo definido por una estructura laminar perforada a partir de regiones Voronoi 3D
 
-* **TB2 - Tutorial Básico 2.** Entramado definido por la célula unitaria de una superficie Gyroid
-* **TA2 - Tutorial Avanzado 2.** Lámpara con entramado superficial definido por una superficie Gyroid
+* **TB2 - Tutorial Básico 2 -** Entramado definido por la célula unitaria de una superficie Gyroid
+* **TA2 - Tutorial Avanzado 2 -** Lámpara con entramado superficial definido por una superficie Gyroid
 
-* **TB3 - Tutorial Básico 3.** Entramado reticular puro de módulo bioinspirado
-* **TA3 - tutorial Avanzado 3.** Suela de zapatilla definida por un entramado reticular de flexibilidad variable
+* **TB3 - Tutorial Básico 3 -** Entramado reticular puro de módulo bioinspirado
+* **TA3 - tutorial Avanzado 3 -** Suela de zapatilla definida por un entramado reticular de flexibilidad variable
 
 ## ⚡ Requisitos y configuraciones previas
 
