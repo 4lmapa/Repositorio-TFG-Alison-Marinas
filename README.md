@@ -28,7 +28,7 @@ nº | Estructural natural                                           | Tutorial d
 3  | Estructuras reticulares                                       | [TB3][29]        | [TA3][30]
 
 * **Estructura 1**
-  * **[TB1][25] ─ Tutorial Básico 1.** Desarrollo de una estructura reticular a partir de la intersección de regiones Voronoi 3D
+  * **[TB1][25] ─ Tutorial Básico 1.** Desarrollo de estructura reticular a partir de la intersección de regiones Voronoi 3D
   * **[TA1][26] ─ Tutorial Avanzado 1.** Desarrollo de anillo definido por una estructura laminar perforada a partir de regiones Voronoi 3D
 
 * **Estructura 2**
