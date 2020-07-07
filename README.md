@@ -50,6 +50,8 @@ nº | Estructural natural                                           | Tutorial d
   * **[TB3][29] ─ Tutorial Básico 3.** Desarrollo de entramado reticular puro de módulo bioinspirado
   * **[TA3][30] ─ tutorial Avanzado 3.** Desarrollo de suela de zapatilla definida por un entramado reticular de flexibilidad variable
   
+---
+  
 ![Divider 1](https://github.com/4lmapa/tfg-amp_manual-repo/blob/master/Banners/banner01.jpg)
 
 ## ⚡ Requisitos y configuraciones previas
@@ -76,7 +78,7 @@ Complemento       | Autor                        | Fuente Oficial 🡭          
 
 :triangular_flag_on_post: 25/06/2020 ─ Debido a problemas en la [~~página web oficial~~][8] se remite al repositorio *[Millipede Backup][9]* creado por [@nickteeple][10].
 
-![Divider 2](https://github.com/4lmapa/tfg-amp_manual-repo/blob/master/Banners/banner013.jpg)
+---
 
 ## ▶ Instrucciones de uso
 
@@ -93,7 +95,9 @@ Tras realizar todas las **configuraciones previas** al uso de los tutoriales se 
 1. Ejecutar **Rhinoceros**.
 2. Escribir `Grasshopper` en la línea de comandos de **Rhinoceros** para acceder a la interfaz de este.
 
-![Divider 3](https://github.com/4lmapa/tfg-amp_manual-repo/blob/master/Banners/banner014.jpg)
+---
+
+![Divider 2](https://github.com/4lmapa/tfg-amp_manual-repo/blob/master/Banners/banner013.jpg)
 
 ## 📂 Bibliografía
 
