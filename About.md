@@ -101,11 +101,21 @@ Tras realizar todas las **configuraciones previas** al uso de los tutoriales se 
 
 ## 📂 Bibliografía
 
-Se recuerda al lector del manual que se requiere de un nivel básico de habilidad con Rhinoceros y Grasshopper para la realización de los tutoriales. Por ello, para completar dicha formación, se pone a disposición una amplia **Bibliografía** con una gran variedad de recursos para el aprendizaje de dichos programas.
+Este manual **requiere de un nivel básico de habilidad** con Rhinoceros y Grasshopper para la realización de los tutoriales. En caso de no tener dicha formación básica, se pone a disposición la siguiente **Bibliografía** con una gran variedad de recursos para el aprendizaje de dichos programas:
 
-Por esta misma razón, en los comandos nombrados en los tutoriales no se definen los menús por los que se pueden extraer a la interfaz; esto ya debe de conocerlo el usuario.
+* **Páginas web**
 
-En cualquier caso, para conocer cómo se extraer estos parámetros en caso de no encontrarse con el buscador de la interfaz, se puede hacer uso del portal [Grasshopper Docs](http://grasshopperdocs.com/) donde se definen todos los comandos.
+  * David Rutten. (s.f.). _Grasshopper Basics with David Rutten._ Consultado el 25 de junio de 2020. https://vimeopro.com/rhino/grasshopper-getting-started-by-david-rutten
+  * Grasshopper Docs. (s.f.). _Community documentation for Grasshopper add-ons & plugins._ Consultada el 24 de junio de 2020. http://grasshopperdocs.com/
+  * Grasshopper3D. (s.f.-b). _Getting started._ Consultada el 24 de junio de 2020. https://www.grasshopper3d.com/page/tutorials-1
+  * McNeel Wiki. (s.f.). _Manuales de formación de Rhino 6._ Consultado el 21 de junio de 2020. https://wiki.mcneel.com/es/rhino/6/trainingguides/en
+  * Rhino3D. (s.f.). _Formación._ Consultado el 21 de junio de 2020. https://www.rhino3d.com/es/tutorials
+
+* **Libros**
+
+  * González, S. G. y Ribé, J. T. (2016). _Grasshopper para Rhinoceros e impresión 3D._ Marcombo.
+  * ModeLab. (2015). _The Grasshopper Primer. An introduction to visual programming and algorithmic modeling with Rhino and Grasshopper (3.ª ed.)._ http://grasshopperprimer.com/en/index.html
+  * Paynee, A. e Issa, R. (2009). _Grasshopper Primer for Version 0.6.0007 – Spanish Edition (2.ª ed.)._ http://www.miatd.org/Contenidos/Manual%20Grasshopper_Espanol.pdf
 
 
 
