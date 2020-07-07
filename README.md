@@ -6,17 +6,28 @@
 
 Los contenidos de este manual se componen de capítulos teóricos y prácticos, dividiendo el manual en dos partes claramente diferenciadas para su organización y uso.
 
-### Contenidos teóricos
+### Parte 01. Contenidos teóricos
 
 La **primera parte** de este manual abarca los capítulos teóricos dedicados al estudio de la biomímesis en el diseño de estructuras para el desarrollo de objetos a través de herramientas computacionales. En este estudio teórico se presenta el estado del arte del diseño bioinspirado ─donde la biomímesis se proclama como la disciplina de referencia en el estudio de las estrategias naturales para su aplicación en problemas humanos─, de los sistemas estructurales y de las últimas herramientas que ofrece el diseño computacional.
 
-01 naturaleza como ...
+* **01 Naturaleza como modelo de diseño**
+  * 011 Evolución histórica
+  * 012 Principios biomiméticos en el diseño 
+  * 013 Biomímesis en el diseño de estructuras 
 
-02 sistemas estructurales
+* **02 Estructuras y sistemas estructurales**
+  * 021 Clasificación de los sistemas estructurales
+  * 022 Geometría de las formas estructurales 
 
-03 diseño computacional
+* **03 Sistemas estructurales naturales**
+  * 031 Clasificación de estructuras naturales 
+  * 032 Estructuras naturales vs. estructuras artificiales
 
-### Contenidos prácticos
+* **04 Diseño computacional**
+  * 041 Terminología computacional 
+  * 042 Software para el diseño de estructuras
+
+### Parte 02. Contenidos prácticos
 
 En la **segunda parte** de este manual se abordan seis casos prácticos consistentes en tutoriales de Grasshopper donde se introduce a la metodología de trabajo con software de programación visual. Dichos tutoriales se centran en la reproducción de tres estructuras naturales: basadas en **diagramas de Voronoi**, **tipo Gyroid** y **reticulares**. Y se aplican en otros tres tutoriales para el diseño de tres objetos: **un anillo**, **una lámpara** y **la suela de una zapatilla**, respectivamente. 
 La relación entre el sistema estructural natural, los tutoriales de base y los tutoriales de aplicación se reflejan en la siguiente tabla:
@@ -39,7 +50,7 @@ nº | Estructural natural                                           | Tutorial d
   * **[TB3][29] ─ Tutorial Básico 3.** Desarrollo de entramado reticular puro de módulo bioinspirado
   * **[TA3][30] ─ tutorial Avanzado 3.** Desarrollo de suela de zapatilla definida por un entramado reticular de flexibilidad variable
   
----
+![Divider 1](https://github.com/4lmapa/tfg-amp_manual-repo/blob/master/Banners/banner01.jpg)
 
 ## ⚡ Requisitos y configuraciones previas
 
@@ -65,7 +76,7 @@ Complemento       | Autor                        | Fuente Oficial 🡭          
 
 :triangular_flag_on_post: 25/06/2020 ─ Debido a problemas en la [~~página web oficial~~][8] se remite al repositorio *[Millipede Backup][9]* creado por [@nickteeple][10].
 
----
+![Divider 2](https://github.com/4lmapa/tfg-amp_manual-repo/blob/master/Banners/banner013.jpg)
 
 ## ▶ Instrucciones de uso
 
@@ -82,7 +93,7 @@ Tras realizar todas las **configuraciones previas** al uso de los tutoriales se 
 1. Ejecutar **Rhinoceros**.
 2. Escribir `Grasshopper` en la línea de comandos de **Rhinoceros** para acceder a la interfaz de este.
 
----
+![Divider 3](https://github.com/4lmapa/tfg-amp_manual-repo/blob/master/Banners/banner014.jpg)
 
 ## 📂 Bibliografía
 
@@ -91,6 +102,8 @@ Se recuerda al lector del manual que se requiere de un nivel básico de habilida
 Por esta misma razón, en los comandos nombrados en los tutoriales no se definen los menús por los que se pueden extraer a la interfaz; esto ya debe de conocerlo el usuario.
 
 En cualquier caso, para conocer cómo se extraer estos parámetros en caso de no encontrarse con el buscador de la interfaz, se puede hacer uso del portal [Grasshopper Docs](http://grasshopperdocs.com/) donde se definen todos los comandos.
+
+
 
 [1]:http://www.bespokegeometry.com/2015/07/22/cocoon/
 [2]:https://www.food4rhino.com/app/crystallon
