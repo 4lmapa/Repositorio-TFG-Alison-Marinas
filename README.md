@@ -28,16 +28,16 @@ nº | Estructural natural                                           | Tutorial d
 3  | Estructuras reticulares                                       | [TB3][29]        | [TA3][30]
 
 * **Estructura 1**
-  * **[TB1][25] ─ Tutorial Básico 1 ─** Desarrollo de una estructura reticular a partir de la intersección de regiones Voronoi 3D
-  * **[TA1][26] ─ Tutorial Avanzado 1 ─** Desarrollo de anillo definido por una estructura laminar perforada a partir de regiones Voronoi 3D
+  * **[TB1][25] ─ Tutorial Básico 1.** Desarrollo de una estructura reticular a partir de la intersección de regiones Voronoi 3D
+  * **[TA1][26] ─ Tutorial Avanzado 1.** Desarrollo de anillo definido por una estructura laminar perforada a partir de regiones Voronoi 3D
 
 * **Estructura 2**
-  * **[TB2][27] ─ Tutorial Básico 2 ─** Desarrollo de entramado definido por la célula unitaria de una superficie Gyroid
-  * **[TA2][28] ─ Tutorial Avanzado 2 ─** Desarrollo de lámpara con entramado superficial definido por una superficie Gyroid
+  * **[TB2][27] ─ Tutorial Básico 2.** Desarrollo de entramado definido por la célula unitaria de una superficie Gyroid
+  * **[TA2][28] ─ Tutorial Avanzado 2.** Desarrollo de lámpara con entramado superficial definido por una superficie Gyroid
 
 * **Estructura 3**
-  * **[TB3][29] ─ Tutorial Básico 3 ─** Desarrollo de entramado reticular puro de módulo bioinspirado
-  * **[TA3][30] ─ tutorial Avanzado 3 ─** Desarrollo de suela de zapatilla definida por un entramado reticular de flexibilidad variable
+  * **[TB3][29] ─ Tutorial Básico 3.** Desarrollo de entramado reticular puro de módulo bioinspirado
+  * **[TA3][30] ─ tutorial Avanzado 3.** Desarrollo de suela de zapatilla definida por un entramado reticular de flexibilidad variable
   
 ---
 
