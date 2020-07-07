@@ -1,4 +1,4 @@
-![](https://github.com/4lmapa/tfg-amp_manual-repo/blob/master/portada(1).jpg)
+![Cover](https://github.com/4lmapa/tfg-amp_manual-repo/blob/master/banner01.jpg)
 
 ## 🌱 Presentación
  
