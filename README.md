@@ -107,9 +107,11 @@ Este manual **requiere de un nivel básico de habilidad** con Rhinoceros y Grass
 
   * David Rutten. (s.f.). _Grasshopper Basics with David Rutten._ Consultado el 25 de junio de 2020. https://vimeopro.com/rhino/grasshopper-getting-started-by-david-rutten
   * Grasshopper Docs. (s.f.). _Community documentation for Grasshopper add-ons & plugins._ Consultada el 24 de junio de 2020. http://grasshopperdocs.com/
-  * Grasshopper3D. (s.f.-b). _Getting started._ Consultada el 24 de junio de 2020. https://www.grasshopper3d.com/page/tutorials-1
+  * Grasshopper3D. (s.f.). _Getting started._ Consultada el 24 de junio de 2020. https://www.grasshopper3d.com/page/tutorials-1
   * McNeel Wiki. (s.f.). _Manuales de formación de Rhino 6._ Consultado el 21 de junio de 2020. https://wiki.mcneel.com/es/rhino/6/trainingguides/en
+  * Parametric House.(s.f.). _Parametric House: Architecture, Art & Design._ Consultado el 16 de mayo de 2020. https://parametrichouse.com/
   * Rhino3D. (s.f.). _Formación._ Consultado el 21 de junio de 2020. https://www.rhino3d.com/es/tutorials
+  * We Want To Learn. (s.f.). _WeWantToLearn.net - Diploma Studio 10 at Westminster University School of Architecture_. Consultado el 29 de mayo de 2020. https://wewanttolearn.wordpress.com/
 
 * **Libros**
 
