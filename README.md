@@ -11,21 +11,21 @@ Los contenidos de este manual se componen de capítulos teóricos y prácticos, 
 La **primera parte** de este manual abarca los capítulos teóricos dedicados al estudio de la biomímesis en el diseño de estructuras para el desarrollo de objetos a través de herramientas computacionales. En este estudio teórico se presenta el estado del arte del diseño bioinspirado ─donde la biomímesis se proclama como la disciplina de referencia en el estudio de las estrategias naturales para su aplicación en problemas humanos─, de los sistemas estructurales y de las últimas herramientas que ofrece el diseño computacional.
 
 * **01 ─ Naturaleza como modelo de diseño**
-  * 011 ─ Evolución histórica
-  * 012 ─ Principios biomiméticos en el diseño 
-  * 013 ─ Biomímesis en el diseño de estructuras 
+  * 011 - Evolución histórica
+  * 012 - Principios biomiméticos en el diseño 
+  * 013 - Biomímesis en el diseño de estructuras 
 
 * **02 ─ Estructuras y sistemas estructurales**
-  * 021 ─ Clasificación de los sistemas estructurales
-  * 022 ─ Geometría de las formas estructurales 
+  * 021 - Clasificación de los sistemas estructurales
+  * 022 - Geometría de las formas estructurales 
 
 * **03 ─ Sistemas estructurales naturales**
-  * 031 ─ Clasificación de estructuras naturales 
-  * 032 ─ Estructuras naturales vs. estructuras artificiales
+  * 031 - Clasificación de estructuras naturales 
+  * 032 - Estructuras naturales vs. estructuras artificiales
 
 * **04 ─ Diseño computacional**
-  * 041 ─ Terminología computacional 
-  * 042 ─ Software para el diseño de estructuras
+  * 041 - Terminología computacional 
+  * 042 - Software para el diseño de estructuras
 
 ### Parte 02. Contenidos prácticos
 
